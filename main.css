@@ -153,7 +153,7 @@ button:focus{
 .second-section-image{
     margin-top: 3rem;
     background-color: gray;
-    background-image: url('./src/4.webp');
+    background-image: url('./src/second.png');
     background-position: center center;
     background-attachment: scroll;
     background-size: cover;
@@ -163,7 +163,7 @@ button:focus{
 }
 /*************************************************/
 .third-section{
-    background-image: url('./src/5.webp');
+    background-image: url('./src/fourth.png');
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
